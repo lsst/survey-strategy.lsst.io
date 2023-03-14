@@ -1,0 +1,5 @@
+project]
+title = "Survey Strategy"
+copyright = "2015-2023 Association of Universities for Research in Astronomy, Inc. (AURA)"
+base_url = "https://survey-strategy.lsst.io"
+github_url = "https://github.com/lsst/survey-strategy.lsst.io"
